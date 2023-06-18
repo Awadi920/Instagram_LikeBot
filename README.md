@@ -13,7 +13,7 @@ Dependencies:
 - schedule: Python library for task scheduling
 
 Usage:
-1. Clone the repository: git clone https://github.com/your-username/instagram-like-bot.git
+1. Clone the repository: git clone https://github.com/Awadi920/Instagram_LikeBot/tree/main
 2. Install the dependencies: pip install pyautogui schedule
 3. Customize the code as per your requirements, including image capture and display settings logic.
 4. Run the bot: python main.py
